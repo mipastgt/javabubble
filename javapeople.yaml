@@ -470,6 +470,7 @@
   fediverse: "jugpaderborn@ijug.social"
 - name: "Java User Group Stuttgart"
   fediverse: "jugstuttgart@ijug.social"
+  twitter: "jug_stuttgart"
 - name: "Java User Group Switzerland"
   twitter: "jugch"
   fediverse: "jugch@ijug.social"
